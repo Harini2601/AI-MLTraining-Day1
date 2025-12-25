@@ -1,0 +1,17 @@
+[
+  {
+    "model": "gpt-4o-mini",
+    "temperature": 0.2,
+    "output": "AI, or artificial intelligence, is a type of computer technology that allows machines to think and learn like humans. It can understand information, make decisions, and solve problems. For example, when you use a voice assistant like Siri or Alexa, that\u2019s AI helping you by understanding your questions and providing answers. Essentially, AI is about creating smart machines that can perform tasks that usually require human intelligence."
+  },
+  {
+    "model": "gpt-4o-mini",
+    "temperature": 0.7,
+    "output": "AI, or artificial intelligence, is a branch of computer science that focuses on creating machines or software that can perform tasks that usually require human intelligence. This includes things like understanding language, recognizing patterns, solving problems, and learning from experience. In simple terms, AI helps computers think and act more like humans, making them capable of doing things such as playing games, answering questions, or even driving cars."
+  },
+  {
+    "model": "gpt-4o-mini",
+    "temperature": 1.0,
+    "output": "AI, or artificial intelligence, is a technology that allows computers and machines to mimic human thinking and behavior. It can learn from experiences, understand language, solve problems, and even make decisions. Think of it as a way for machines to become \"smart\" so they can help us with tasks like answering questions, playing games, or even driving cars."
+  }
+]
